@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Manan
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a full stack web development project.
